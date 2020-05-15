@@ -1,0 +1,30 @@
+[
+  { "id_sensor":1,
+    "value":63.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":64.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":65.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":62.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":63.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":66.40,
+     "measurement_type":"S_MOISTURE"
+  },
+  { "id_sensor":1,
+    "value":63.40,
+     "measurement_type":"S_MOISTURE"
+  }
+]
