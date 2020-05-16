@@ -1,4 +1,6 @@
-
+{
+  "sensors":
+ [
   {"date":20200515,
   "temperature":27,
   "humidity":50,
@@ -26,6 +28,9 @@
   "light":40,
   "pressure":8876,
   "soil":65}
+   
+   ]
+}
 
  
  
