@@ -1,28 +1,37 @@
-{
-  "sensors": [
-    {
-      "id": 1,
-      "measure": "20.8"
-    },
-    {
-      "id": 1,
-      "measure": "21.6"
-    },
-    {
-      "id": 1,
-      "measure": "23.2"
-    },
-    {
-      "id": 1,
-      "measure": "20.3"
-    },
-    {
-      "id": 1,
-      "measure": "25.7"
-    },
-    {
-      "id": 1,
-      "measure": "20.6"
-    }
-  ]
-}
+[
+  {"date":20200515,
+  "temperature":27,
+  "humidity":50,
+  "light":80,
+  "pressure":8876,
+  "soil":67},
+ 
+ {"date":20200514,
+  "temperature":28,
+  "humidity":45,
+  "light":70,
+  "pressure":8878,
+  "soil":68},
+ 
+ {"date":20200513,
+  "temperature":26,
+  "humidity":56,
+  "light":60,
+  "pressure":8886,
+  "soil":69},
+ 
+ {"date":20200512,
+  "temperature":25,
+  "humidity":64,
+  "light":40,
+  "pressure":8876,
+  "soil":65},
+ ]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
